@@ -34,4 +34,4 @@ On the screen, fork the project, click clone, and use the command:
 
 **License**
 
-The project is licensed under the Do What You Want Public License
+The project is licensed under the Zero Clause BSD

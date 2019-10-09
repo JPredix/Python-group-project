@@ -1,4 +1,5 @@
-**Getting Started**/n
+**Getting Started**
+
 This program takes two numbers from the user and adds them together. The program then prints out the sum.
 **Installation**
 Install JupyterLab
